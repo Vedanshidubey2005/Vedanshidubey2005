@@ -1,6 +1,6 @@
 ### Hi there 👋 , My name is Vedanshi Dubey
 ### I am 2nd year undergraduate engineering student
-### web developer
+### Web Developer
 <!--
 **Vedanshidubey2005/Vedanshidubey2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
