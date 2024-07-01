@@ -1,6 +1,7 @@
-### Hi there 👋 , My name is Vedanshi Dubey
-### I am 2nd year undergraduate engineering student
-### Web Developer
+### Hi there 👋
+### My name is Vedanshi Dubey
+### I am 2nd year undergraduate engineering student passionate about technology.
+### I am currently learning C++ in depth and also web development.I look forward to collaborate on projects related to them.
 <!--
 **Vedanshidubey2005/Vedanshidubey2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
